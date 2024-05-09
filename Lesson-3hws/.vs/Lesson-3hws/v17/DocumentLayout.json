@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson-3hws\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392B6213-1EF5-4450-9110-9C4A1422B01D}|Lesson-3hws\\Lesson-3hws.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson-3hws\\lesson-3hws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392B6213-1EF5-4450-9110-9C4A1422B01D}|Lesson-3hws\\Lesson-3hws.csproj|solutionrelative:lesson-3hws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson-3hws\\Lesson-3hws\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson-3hws\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson-3hws\\Lesson-3hws\\Program.cs",
+              "RelativeToolTip": "Lesson-3hws\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:10:40.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
