@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\bin\Debug\net8.0\Lesson4hws.exe
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\bin\Debug\net8.0\Lesson4hws.deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\bin\Debug\net8.0\Lesson4hws.runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\bin\Debug\net8.0\Lesson4hws.dll
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\bin\Debug\net8.0\Lesson4hws.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.dll
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\refint\Lesson4hws.dll
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\Lesson4hws.genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson4hws\Lesson4hws\obj\Debug\net8.0\ref\Lesson4hws.dll
