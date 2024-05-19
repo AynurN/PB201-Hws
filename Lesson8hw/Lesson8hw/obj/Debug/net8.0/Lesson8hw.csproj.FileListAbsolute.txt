@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\bin\Debug\net8.0\Lesson8hw.exe
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\bin\Debug\net8.0\Lesson8hw.deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\bin\Debug\net8.0\Lesson8hw.runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\bin\Debug\net8.0\Lesson8hw.dll
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\bin\Debug\net8.0\Lesson8hw.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.dll
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\refint\Lesson8hw.dll
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\Lesson8hw.genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson8hw\Lesson8hw\obj\Debug\net8.0\ref\Lesson8hw.dll
