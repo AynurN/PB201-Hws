@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj": {}
+    "C:\\Users\\student\\Desktop\\PB201-Hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj": {
+    "C:\\Users\\student\\Desktop\\PB201-Hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Desktop\\PB201-Hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj",
         "projectName": "Lesson9hw",
-        "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson9hw\\Lesson9hw\\obj\\",
+        "projectPath": "C:\\Users\\student\\Desktop\\PB201-Hws\\Lesson9hw\\Lesson9hw\\Lesson9hw.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\student\\Desktop\\PB201-Hws\\Lesson9hw\\Lesson9hw\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,12 +54,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

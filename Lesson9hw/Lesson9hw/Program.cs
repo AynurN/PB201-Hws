@@ -13,6 +13,7 @@ namespace Lesson9hw
             Console.WriteLine("new");
             Console.WriteLine(Substring(s,3));
             Console.WriteLine(Substring(s,5,3));
+            Console.WriteLine(Replace(s, "code", "abc"));
 
         }
 
@@ -87,12 +88,12 @@ namespace Lesson9hw
             for(int i=0; i<word.Length; i++)
             {
                 if (word[i] == ' ') start++;
-                if (word[i] != ' ') break;
+                else if (word[i] != ' ') break;
             }
             for(int i=word.Length-1; i>=0; i--)
             {
                 if (word[i] == ' ') end++;
-                if (word[i] != ' ') break;
+                else if (word[i] != ' ') break;
             }
             for(int i=start; i<=word.Length-end-1; i++)
             {
@@ -122,6 +123,20 @@ namespace Lesson9hw
                 count++;
             }
             return sub;
+        }
+        static string Replace(string word, string oldst, string newst)
+        {
+            string newword = string.Empty;
+            for(int i=0; i<word.IndexOf(oldst); i++)
+            {
+                newword+= word[i];
+            }
+            newword += newst;
+            for(int i= word.IndexOf(oldst)+oldst.Length+1; i<word.Length; i++)
+            {
+                newword+= word[i];
+            }
+            return newword;
         }
 
 
