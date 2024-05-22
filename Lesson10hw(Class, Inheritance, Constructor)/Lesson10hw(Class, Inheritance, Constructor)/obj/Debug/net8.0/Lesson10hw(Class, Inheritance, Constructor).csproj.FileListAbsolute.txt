@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\bin\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).exe
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\bin\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\bin\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\bin\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).dll
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\bin\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).pdb
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).dll
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\refint\Lesson10hw(Class, Inheritance, Constructor).dll
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).pdb
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\Lesson10hw(Class, Inheritance, Constructor).genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson10hw(Class, Inheritance, Constructor)\Lesson10hw(Class, Inheritance, Constructor)\obj\Debug\net8.0\ref\Lesson10hw(Class, Inheritance, Constructor).dll
