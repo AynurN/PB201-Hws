@@ -16,7 +16,7 @@ namespace Lesson10hw_Class__Inheritance__Constructor_
         
         public void Drive(int km)
         {
-            if (CurrentFuel - FuelFor1Km * km > 0)
+            if (CurrentFuel - FuelFor1Km * km >= 0)
             {
                 CurrentFuel-= FuelFor1Km * km;
                 Millage += km;
