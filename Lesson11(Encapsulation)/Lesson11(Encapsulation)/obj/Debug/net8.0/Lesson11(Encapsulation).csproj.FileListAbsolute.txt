@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\bin\Debug\net8.0\Lesson11(Encapsulation).exe
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\bin\Debug\net8.0\Lesson11(Encapsulation).deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\bin\Debug\net8.0\Lesson11(Encapsulation).runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\bin\Debug\net8.0\Lesson11(Encapsulation).dll
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\bin\Debug\net8.0\Lesson11(Encapsulation).pdb
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).dll
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\refint\Lesson11(Encapsulation).dll
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).pdb
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\Lesson11(Encapsulation).genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson11(Encapsulation)\Lesson11(Encapsulation)\obj\Debug\net8.0\ref\Lesson11(Encapsulation).dll
