@@ -71,8 +71,7 @@ namespace Lesson12_Static__extension
                     int point = Convert.ToInt32(Console.ReadLine());
                     Student newstudent = new Student(name, point);
                     group1.AddStudent(newstudent);
-                    Console.WriteLine("New student added");
-                    newstudent.StudentInfo();
+                 
 
                 }
                 else if (choice2 == 0)

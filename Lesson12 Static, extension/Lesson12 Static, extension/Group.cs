@@ -32,14 +32,18 @@ namespace Lesson12_Static__extension
             return false;
 
         }
-        public void AddStudent(Student student) 
+        public void AddStudent(Student student)
         {
-            
+
             if (Students.Length + 1 <= StudentLimit)
-            { 
+            {
                 Array.Resize(ref Students, Students.Length + 1);
 
-                Students[Students.Length-1] = student;
+                Students[Students.Length - 1] = student;
+            }
+            else
+            {
+                Console.WriteLine("The student can not be added");
             }
         }
         public Student? GetStudent(int? id)

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|solutionrelative:lesson12 static, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson12 static, extension\\lesson12 static, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|solutionrelative:lesson12 static, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson12 static, extension\\lesson12 static, extension\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|solutionrelative:lesson12 static, extension\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson12 static, extension\\lesson12 static, extension\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|solutionrelative:lesson12 static, extension\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson12 static, extension\\lesson12 static, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|solutionrelative:lesson12 static, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DD49268-4056-4392-BA58-4C23050C1F6A}|Lesson12 Static, extension\\Lesson12 Static, extension.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson12 static, extension\\lesson12 static, extension\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,33 +34,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson12 Static, extension\\Lesson12 Static, extension\\Group.cs",
               "RelativeDocumentMoniker": "Lesson12 Static, extension\\Group.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson12 Static, extension\\Lesson12 Static, extension\\Group.cs",
               "RelativeToolTip": "Lesson12 Static, extension\\Group.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACkAAAAqAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:06:57.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson12 Static, extension\\Lesson12 Static, extension\\Student.cs",
               "RelativeDocumentMoniker": "Lesson12 Static, extension\\Student.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson12 Static, extension\\Lesson12 Static, extension\\Student.cs",
               "RelativeToolTip": "Lesson12 Static, extension\\Student.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAXAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:43:40.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson12 Static, extension\\Lesson12 Static, extension\\User.cs",
               "RelativeDocumentMoniker": "Lesson12 Static, extension\\User.cs",
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Lesson12 Static, extension\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson12 Static, extension\\Lesson12 Static, extension\\Program.cs",
               "RelativeToolTip": "Lesson12 Static, extension\\Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAABYAAAAcAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T17:38:16.639Z",
               "EditorCaption": ""
