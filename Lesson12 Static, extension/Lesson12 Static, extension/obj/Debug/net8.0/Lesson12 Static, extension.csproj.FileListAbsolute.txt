@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\bin\Debug\net8.0\Lesson12 Static, extension.exe
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\bin\Debug\net8.0\Lesson12 Static, extension.deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\bin\Debug\net8.0\Lesson12 Static, extension.runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\bin\Debug\net8.0\Lesson12 Static, extension.dll
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\bin\Debug\net8.0\Lesson12 Static, extension.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.dll
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\refint\Lesson12 Static, extension.dll
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\Lesson12 Static, extension.genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson12 Static, extension\Lesson12 Static, extension\obj\Debug\net8.0\ref\Lesson12 Static, extension.dll
