@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\bin\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.exe
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\bin\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\bin\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\bin\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.dll
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\bin\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.dll
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\refint\Lesson13 Exeption,Upcasting, downcasting.dll
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\Lesson13 Exeption,Upcasting, downcasting.genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson13 Exeption,Upcasting, downcasting\Lesson13 Exeption,Upcasting, downcasting\obj\Debug\net8.0\ref\Lesson13 Exeption,Upcasting, downcasting.dll

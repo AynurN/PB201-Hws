@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson13 exeption,upcasting, downcasting\\lesson13 exeption,upcasting, downcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|solutionrelative:lesson13 exeption,upcasting, downcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson13 exeption,upcasting, downcasting\\lesson13 exeption,upcasting, downcasting\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|solutionrelative:lesson13 exeption,upcasting, downcasting\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson13 exeption,upcasting, downcasting\\lesson13 exeption,upcasting, downcasting\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|solutionrelative:lesson13 exeption,upcasting, downcasting\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson13 exeption,upcasting, downcasting\\lesson13 exeption,upcasting, downcasting\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|solutionrelative:lesson13 exeption,upcasting, downcasting\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson13 exeption,upcasting, downcasting\\lesson13 exeption,upcasting, downcasting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|solutionrelative:lesson13 exeption,upcasting, downcasting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson13 exeption,upcasting, downcasting\\lesson13 exeption,upcasting, downcasting\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C7709-7694-4AB1-8209-DDB7B3AB5339}|Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting.csproj|solutionrelative:lesson13 exeption,upcasting, downcasting\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Class1.cs",
+              "RelativeDocumentMoniker": "Lesson13 Exeption,Upcasting, downcasting\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Class1.cs",
+              "RelativeToolTip": "Lesson13 Exeption,Upcasting, downcasting\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:41:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Car.cs",
+              "RelativeDocumentMoniker": "Lesson13 Exeption,Upcasting, downcasting\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Car.cs",
+              "RelativeToolTip": "Lesson13 Exeption,Upcasting, downcasting\\Car.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:37:58.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Hotel.cs",
+              "RelativeDocumentMoniker": "Lesson13 Exeption,Upcasting, downcasting\\Hotel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Hotel.cs",
+              "RelativeToolTip": "Lesson13 Exeption,Upcasting, downcasting\\Hotel.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:37:21.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Room.cs",
+              "RelativeDocumentMoniker": "Lesson13 Exeption,Upcasting, downcasting\\Room.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Room.cs",
+              "RelativeToolTip": "Lesson13 Exeption,Upcasting, downcasting\\Room.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:19:47.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\NotAvailableException.cs",
+              "RelativeDocumentMoniker": "Lesson13 Exeption,Upcasting, downcasting\\NotAvailableException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\NotAvailableException.cs",
+              "RelativeToolTip": "Lesson13 Exeption,Upcasting, downcasting\\NotAvailableException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:41:41.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson13 Exeption,Upcasting, downcasting\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson13 Exeption,Upcasting, downcasting\\Lesson13 Exeption,Upcasting, downcasting\\Program.cs",
+              "RelativeToolTip": "Lesson13 Exeption,Upcasting, downcasting\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvyEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:04:43.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
