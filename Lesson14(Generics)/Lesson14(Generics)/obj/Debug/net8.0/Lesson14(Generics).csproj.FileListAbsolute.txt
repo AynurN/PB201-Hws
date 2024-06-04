@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\Lesson14(Generics).exe
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\Lesson14(Generics).deps.json
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\Lesson14(Generics).runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\Lesson14(Generics).dll
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\Lesson14(Generics).pdb
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).sourcelink.json
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).dll
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\refint\Lesson14(Generics).dll
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).pdb
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\ref\Lesson14(Generics).dll
