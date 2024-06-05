@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\MyHelperClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{002C420B-412B-4242-8794-163229D07D11}|MyHelperClassLibrary\\MyHelperClassLibrary.csproj|c:\\users\\user\\desktop\\pb201-hws\\myhelperclasslibrary\\myhelperclasslibrary\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002C420B-412B-4242-8794-163229D07D11}|MyHelperClassLibrary\\MyHelperClassLibrary.csproj|solutionrelative:myhelperclasslibrary\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\MyHelperClassLibrary\\MyHelperClassLibrary\\Helper.cs",
+              "RelativeDocumentMoniker": "MyHelperClassLibrary\\Helper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\MyHelperClassLibrary\\MyHelperClassLibrary\\Helper.cs",
+              "RelativeToolTip": "MyHelperClassLibrary\\Helper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:26:49.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\bin\Debug\net8.0\MyHelperClassLibrary.deps.json
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\bin\Debug\net8.0\MyHelperClassLibrary.dll
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\bin\Debug\net8.0\MyHelperClassLibrary.pdb
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.dll
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\refint\MyHelperClassLibrary.dll
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\MyHelperClassLibrary.pdb
+C:\Users\user\Desktop\PB201-hws\MyHelperClassLibrary\MyHelperClassLibrary\obj\Debug\net8.0\ref\MyHelperClassLibrary.dll

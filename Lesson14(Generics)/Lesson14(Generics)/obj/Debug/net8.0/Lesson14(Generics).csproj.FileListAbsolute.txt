@@ -13,3 +13,7 @@ C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\
 C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).pdb
 C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).genruntimeconfig.cache
 C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\ref\Lesson14(Generics).dll
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\MyHelperClassLibrary.dll
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\bin\Debug\net8.0\MyHelperClassLibrary.pdb
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14(Generics).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PB201-hws\Lesson14(Generics)\Lesson14(Generics)\obj\Debug\net8.0\Lesson14.4800A8C3.Up2Date

@@ -3,42 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyHelperClassLibrary;
 
 namespace Lesson14_Generics_
 {
     public class Library
     {
         Book[] books=Array.Empty<Book>();
-        private void AddBook<T>(T book, ref T[] booksarr)
-        {
-            Array.Resize(ref booksarr, booksarr.Length + 1);
-            booksarr[^1]=book;
+        public Book this[int index] {
+            get { return books[index]; }
+            private set { }
+        }
 
-        }
-        private void RemoveBook<T>(T book, ref T[] booksarr)
-        {
-            int count = 0;
-            foreach (var item in booksarr)
-            {
-                if (!item.Equals(book))
-                {
-                    count++;
-                }
-            }
-            T[] newBooks = new T[count];
-            int index = 0;
-            foreach (var item in booksarr)
-            {
-                if (!item.Equals(book))
-                {
-                    newBooks[index++] = item;
-                }
-            }
-            booksarr = newBooks;
-        }
         public void AddBookToTheLibrary(Book book)
         {
-            AddBook(book, ref books);
+            Helper.Add(book, ref books);
         }
         public Book[] FindAllBooksByName(string name)
         {  
@@ -47,7 +26,7 @@ namespace Lesson14_Generics_
             {
                 if (book.Name.Contains(name.Trim(),StringComparison.OrdinalIgnoreCase))
                 {
-                    AddBook(book,ref booksWithName);
+                    Helper.Add(book,ref booksWithName);
 
                 }
             }
@@ -71,7 +50,7 @@ namespace Lesson14_Generics_
             foreach (var book in books)
             {
                 if (book.PageCount >= min && book.PageCount <= max)
-                    AddBook(book,ref bookInTheRange);
+                    Helper.Add(book,ref bookInTheRange);
             }
             return bookInTheRange;
         }
@@ -81,8 +60,21 @@ namespace Lesson14_Generics_
             foreach (var book in books)
             {
                 if (book.Code == code)
-                    RemoveBook(book,ref books);
+                    Helper.Remove(book,ref books);
             }
+        }
+        public Book[] SearchBooks(string searched)
+        {
+            Book[] searchedBooks = Array.Empty<Book>();
+            searched = searched.ToLower().Trim();
+            foreach (var book in books)
+            {
+               if(book.Name.ToLower().Contains(searched) || book.AuthorName.ToLower().Contains(searched) || book.PageCount.ToString().Contains(searched))
+                {
+                    Helper.Add(book, ref searchedBooks);
+                }
+            }
+            return searchedBooks;
         }
         public void ShowLibraryInfo()
         {

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson14(generics)\\lesson14(generics)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|solutionrelative:lesson14(generics)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson14(generics)\\lesson14(generics)\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|solutionrelative:lesson14(generics)\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson14(generics)\\lesson14(generics)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|solutionrelative:lesson14(generics)\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson14(generics)\\lesson14(generics)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D814BFEA-FE5B-453C-BBF2-874AADB06FAB}|Lesson14(Generics)\\Lesson14(Generics).csproj|solutionrelative:lesson14(generics)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\Lesson14(Generics)\\Library.cs",
               "RelativeDocumentMoniker": "Lesson14(Generics)\\Library.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\Lesson14(Generics)\\Library.cs",
               "RelativeToolTip": "Lesson14(Generics)\\Library.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACwAAAA3AAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T04:52:26.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\Lesson14(Generics)\\Book.cs",
               "RelativeDocumentMoniker": "Lesson14(Generics)\\Book.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\Lesson14(Generics)\\Book.cs",
               "RelativeToolTip": "Lesson14(Generics)\\Book.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAAYAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T04:42:05.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\Lesson14(Generics)\\Program.cs",
               "RelativeDocumentMoniker": "Lesson14(Generics)\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson14(Generics)\\Lesson14(Generics)\\Program.cs",
               "RelativeToolTip": "Lesson14(Generics)\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAABDAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T04:41:07.881Z",
               "EditorCaption": ""

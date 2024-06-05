@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using MyHelperClassLibrary;
 namespace Lesson14_Generics_
 {
     public class Book
@@ -28,7 +28,7 @@ namespace Lesson14_Generics_
             AuthorName = authorName;
             PageCount = pageCount;
             ++_count;
-            Code = $"{Char.ToUpper(Name[0])}{Char.ToUpper(Name[1])}{_count}";
+            Code = Helper.CreateBookCode(Name, _count);
         }
 
         public override string ToString()

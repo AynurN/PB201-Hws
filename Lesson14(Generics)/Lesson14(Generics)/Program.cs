@@ -16,22 +16,26 @@
             library.AddBookToTheLibrary(book4);
             library.AddBookToTheLibrary(book5);
             //library.RemoveBookByCode("MY2");
-            foreach (var item in library.FindAllBooksByName("potter"))
+            //foreach (var item in library.FindAllBooksByName("potter"))
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Console.WriteLine(library[2]);
+            foreach(var book in library.SearchBooks("400"))
             {
-                Console.WriteLine(item);
+                Console.WriteLine(book);
             }
+            //}
+            //Console.WriteLine(library.FindBookByCode("AN3"));
 
-                //}
-                //Console.WriteLine(library.FindBookByCode("AN3"));
-
-                //    foreach(var book in library.FindAllBooksByPageCountRange(200, 400))
-                //{
-                //    Console.WriteLine(book);
-                //}
-
+            //    foreach(var book in library.FindAllBooksByPageCountRange(200, 400))
+            //{
+            //    Console.WriteLine(book);
+            //}
 
 
-                //library.ShowLibraryInfo();
-            }
+
+            //library.ShowLibraryInfo();
+        }
     }
 }
