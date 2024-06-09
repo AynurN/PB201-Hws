@@ -17,7 +17,7 @@ namespace SchoolERP_CA
             Teacher t1 = new Teacher() { FullName = "Eli Hesenov", Salary = 700 };
             Teacher t2 = new Teacher() { FullName = "Amil Babayev", Salary = 300 };
             Student s1 = new Student() { FullName = "Adil Ismayilov ", Grade = 85 };
-            Student s2 = new Student() { FullName = "Adil Ismayilov ", Grade = 85 };
+            Student s2 = new Student() { FullName = "Elton Eliyev ", Grade = 70 };
             Student s3 = new Student() { FullName = "Anar Feteliyev", Grade = 50 };
             Student s4 = new Student() { FullName = "Fidan Efendiyeva ", Grade = 80 };
             Student s5 = new Student() { FullName = "Gulay Movlamova ", Grade = 90 };
