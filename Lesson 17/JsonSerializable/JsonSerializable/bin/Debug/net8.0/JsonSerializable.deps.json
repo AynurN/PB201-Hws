@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JsonSerializable/1.0.0": {
+        "runtime": {
+          "JsonSerializable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JsonSerializable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

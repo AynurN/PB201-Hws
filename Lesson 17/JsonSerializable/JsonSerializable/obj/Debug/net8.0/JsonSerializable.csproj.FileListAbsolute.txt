@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\bin\Debug\net8.0\JsonSerializable.exe
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\bin\Debug\net8.0\JsonSerializable.deps.json
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\bin\Debug\net8.0\JsonSerializable.runtimeconfig.json
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\bin\Debug\net8.0\JsonSerializable.dll
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\bin\Debug\net8.0\JsonSerializable.pdb
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.dll
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\refint\JsonSerializable.dll
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.pdb
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\JsonSerializable.genruntimeconfig.cache
+C:\Users\user\Desktop\PB201-hws\JsonSerializable\JsonSerializable\obj\Debug\net8.0\ref\JsonSerializable.dll
