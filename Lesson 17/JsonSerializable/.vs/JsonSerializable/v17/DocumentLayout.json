@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\jsonserializable\\jsonserializable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|solutionrelative:jsonserializable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\jsonserializable\\jsonserializable\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|solutionrelative:jsonserializable\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\jsonserializable\\jsonserializable\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson 17\\jsonserializable\\jsonserializable\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|solutionrelative:jsonserializable\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\jsonserializable\\jsonserializable\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson 17\\jsonserializable\\jsonserializable\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|solutionrelative:jsonserializable\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson 17\\jsonserializable\\jsonserializable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|solutionrelative:jsonserializable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|c:\\users\\user\\desktop\\pb201-hws\\lesson 17\\jsonserializable\\jsonserializable\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACFDEE8B-A753-4202-A4B8-4B6904B4A69E}|JsonSerializable\\JsonSerializable.csproj|solutionrelative:jsonserializable\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\ProductService.cs",
               "RelativeDocumentMoniker": "JsonSerializable\\ProductService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\ProductService.cs",
               "RelativeToolTip": "JsonSerializable\\ProductService.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAACoAAABcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T17:24:46.637Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IProductservice.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\IProductservice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\IProductservice.cs",
               "RelativeDocumentMoniker": "JsonSerializable\\IProductservice.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\IProductservice.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\IProductservice.cs",
               "RelativeToolTip": "JsonSerializable\\IProductservice.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,22 +58,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\Product.cs",
               "RelativeDocumentMoniker": "JsonSerializable\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\Product.cs",
               "RelativeToolTip": "JsonSerializable\\Product.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T17:24:05.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T17:24:05.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\Program.cs",
               "RelativeDocumentMoniker": "JsonSerializable\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\Program.cs",
               "RelativeToolTip": "JsonSerializable\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

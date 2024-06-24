@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\JsonSerializable.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\JsonSerializable.csproj",
       "projectName": "JsonSerializable",
-      "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\JsonSerializable.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\JsonSerializable.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\PB201-hws\\JsonSerializable\\JsonSerializable\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\PB201-hws\\Lesson 17\\JsonSerializable\\JsonSerializable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

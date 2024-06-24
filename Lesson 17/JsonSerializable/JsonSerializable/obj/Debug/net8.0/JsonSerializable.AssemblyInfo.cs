@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonSerializable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b8f02e20954571b798883938a5f80fed92ee6d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55850444e2ea4a446a836b4f6a834cd7f4199518")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonSerializable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonSerializable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
